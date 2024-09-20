@@ -5,9 +5,9 @@
 ---
 ## *Las bibliotecas que voy a utilizar* 📑:
 - discrord
-- Flask
-- render_template
-- request
+- Flask ***(from flask)***
+- render_template ***(from flask)***
+- request ***(from flask)***
 
 ## *Referencias útiles* 🗃️:
 - Bot ecológico 🤖
