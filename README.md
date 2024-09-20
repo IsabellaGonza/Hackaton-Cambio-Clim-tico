@@ -4,10 +4,13 @@
 
 ---
 ## *Las bibliotecas que voy a utilizar* 📑:
-- discrord
-- Flask ***(from flask)***
-- render_template ***(from flask)***
-- request ***(from flask)***
+
+```
+import discrord
+from flask import Flask
+from flask import render_template
+from flask import request
+```
 
 ## *Referencias útiles* 🗃️:
 - Bot ecológico 🤖
